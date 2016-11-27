@@ -59,7 +59,7 @@
             "SPAN": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px",
+              "font-size": "24px",
               "color": "#ffffff"
             },
             "I": {
@@ -135,10 +135,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -170,7 +170,7 @@
           "_anchor": "index-ext_menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -368,7 +368,7 @@
           "_anchor": "page1-ext_menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -566,7 +566,7 @@
           "_anchor": "page2-ext_menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",

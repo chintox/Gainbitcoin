@@ -440,7 +440,7 @@ h6,
 }
 #index-msg-box6-0 SPAN {
   font-family: 'Oswald', sans-serif;
-  font-size: 20px;
+  font-size: 24px;
   color: #ffffff;
 }
 #index-msg-box6-0 I {
@@ -468,11 +468,11 @@ h6,
   color: #ffffff;
 }
 #index-ext_menu-0 .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #index-ext_menu-0 .dropdown-item,
 #index-ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #index-ext_menu-0 .link:hover,
 #index-ext_menu-0 .dropdown-item:hover,
