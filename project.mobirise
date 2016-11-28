@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "3.7.3",
     "versionPublish": "3.9.2",
     "name": "Gainbitcoin",
@@ -144,13 +144,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -169,7 +169,7 @@
           "_name": "ext.menu",
           "_anchor": "index-ext_menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -226,7 +226,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "CRYPTO CURENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
+          "text": "&nbsp;CRYPTO CURRENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
         }
       ]
     },
@@ -333,22 +333,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -367,7 +367,7 @@
           "_name": "ext.menu",
           "_anchor": "page1-ext_menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -424,7 +424,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "CRYPTO CURENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
+          "text": "CRYPTO CURRENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
         }
       ]
     },
@@ -531,22 +531,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -565,7 +565,7 @@
           "_name": "ext.menu",
           "_anchor": "page2-ext_menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",

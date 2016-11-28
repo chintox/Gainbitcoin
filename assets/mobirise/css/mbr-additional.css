@@ -561,11 +561,11 @@ h6,
   color: #ffffff;
 }
 #page1-ext_menu-0 .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #page1-ext_menu-0 .dropdown-item,
 #page1-ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #page1-ext_menu-0 .link:hover,
 #page1-ext_menu-0 .dropdown-item:hover,
@@ -575,19 +575,19 @@ h6,
 }
 #page1-ext_menu-0 .link[aria-expanded="true"],
 #page1-ext_menu-0 .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #page1-ext_menu-0 .nav-dropdown-sm .link:focus,
 #page1-ext_menu-0 .nav-dropdown-sm .link:hover,
 #page1-ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #page1-ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #page1-ext_menu-0 .navbar,
 #page1-ext_menu-0 .nav-dropdown-sm,
 #page1-ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #page1-ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #page1-ext_menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -654,11 +654,11 @@ h6,
   color: #ffffff;
 }
 #page2-ext_menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #page2-ext_menu-0 .dropdown-item,
 #page2-ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #page2-ext_menu-0 .link:hover,
 #page2-ext_menu-0 .dropdown-item:hover,
@@ -668,19 +668,19 @@ h6,
 }
 #page2-ext_menu-0 .link[aria-expanded="true"],
 #page2-ext_menu-0 .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #page2-ext_menu-0 .nav-dropdown-sm .link:focus,
 #page2-ext_menu-0 .nav-dropdown-sm .link:hover,
 #page2-ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #page2-ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #page2-ext_menu-0 .navbar,
 #page2-ext_menu-0 .nav-dropdown-sm,
 #page2-ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #page2-ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #page2-ext_menu-0 .bg-color.transparent .link {
   color: #ffffff;
